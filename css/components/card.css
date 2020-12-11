@@ -1,0 +1,26 @@
+.card {
+	padding: 30px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+	border-radius: 4px;
+	margin-top: 10px;
+	margin-bottom: 30px;
+	background-color: rgba(0, 0, 0, 0.3);
+
+}
+.card img {
+	width: 200px;
+	border-radius: 4px;
+}
+
+.card a {
+	background-color: #F37619;
+	width: 50px 100px;
+	color: white;
+}
+
+.card p {
+	padding: 30px;
+}
